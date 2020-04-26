@@ -15,5 +15,5 @@ App Features:
                and dotor can also update his profile through this app.
                
 # Demo of App
-
- <img src="https://github.com/PrashantWalunj999/Doctors-Appointment-App---HCI-Lab-Prototype/demo/Hospital_Appointy.gif">
+<img src="https://github.com/PrashantWalunj999/Doctors-Appointment-App---HCI-Lab-Prototype\Demo\Hospital_Appointy.gif">
+    
