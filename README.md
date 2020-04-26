@@ -16,4 +16,4 @@ App Features:
                
 # Demo of App
 
- <img src="https://github.com/amankumar367/HospitalAppointy/blob/master/Screenshots/Hospital_Appointy.gif">
+ <img src="https://github.com/PrashantWalunj999/Doctors-Appointment-App---HCI-Lab-Prototype/demo/Hospital_Appointy.gif">
